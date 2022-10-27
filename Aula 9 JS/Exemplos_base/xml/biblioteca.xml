@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<biblioteca>
+    <livro isbn="3434324">
+    <titulo>java</titulo>
+    <autores>
+        <nome>Fulano 1</nome>
+        <nome>Fulano 2</nome>
+    </autores>
+    <editora> Érica </editora>
+    </livro>
+
+    <livro isbn="3434324">
+    <titulo>java</titulo>
+    <autores>
+        <nome>Fulano 1</nome>
+        <nome>Fulano 2</nome>
+    </autores>
+    <editora> Érica </editora>
+    </livro>
+
+    <livro isbn="3434324">
+    <titulo>java</titulo>
+    <autores>
+        <nome>Fulano 1</nome>
+        <nome>Fulano 2</nome>
+    </autores>
+    <editora> Érica </editora>
+    </livro>
+</biblioteca>
